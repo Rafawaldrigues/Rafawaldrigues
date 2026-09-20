@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Rafael Guerra — Software, systems and reverse engineering</title>
+<desc id="desc">Dark navy banner with mint accents and an animated control-flow diagram. Building software. Understanding what runs underneath.</desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#164b50"/><stop offset="1" stop-color="#0b1220"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#233444" stroke-width=".5"/></pattern>
+</defs>
+<style>
+.flow{stroke-dasharray:8 12;animation:flow 4s linear infinite}.cursor{animation:blink 1.8s step-end infinite}.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-80}}@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.4}}
+@media(prefers-reduced-motion:reduce){.flow,.cursor,.pulse{animation:none}}
+</style>
+<rect width="1200" height="420" rx="20" fill="#0b1220"/>
+<rect x="650" width="550" height="420" rx="20" fill="url(#glow)"/>
+<rect width="1200" height="420" rx="20" fill="url(#grid)" opacity=".55"/>
+<path d="M48 46H1152" stroke="#29404b"/>
+<circle cx="52" cy="24" r="4" fill="#72ead0"/><text x="68" y="29" font-family="monospace" font-size="12" fill="#9bb2c7">RAFAWALDRIGUES / ENGINEERING NOTES</text>
+<text x="54" y="112" font-family="monospace" font-size="14" letter-spacing="3" fill="#72ead0">SOFTWARE · SYSTEMS · REVERSE ENGINEERING</text>
+<text x="50" y="184" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f0f5fa">Rafael Guerra</text>
+<text x="54" y="237" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#c4d0de">Building software.</text>
+<text x="54" y="273" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#c4d0de">Understanding what runs underneath.</text>
+<rect x="54" y="316" width="382" height="38" rx="8" fill="#132633" stroke="#2b4857"/>
+<text x="70" y="341" font-family="monospace" font-size="14" fill="#72ead0">&gt; build / inspect / debug / learn</text><rect class="cursor" x="407" y="326" width="8" height="16" fill="#72ead0"/>
+<g fill="none" stroke="#3e7c80" stroke-width="2"><path d="M962 140V174H856V221M962 174H1070V221M856 272V315H962M1070 272V315H962V347"/><path class="flow" d="M962 140V174H856V221M856 272V315H962V347" stroke="#72ead0"/></g>
+<g font-family="monospace" font-size="16" text-anchor="middle">
+<rect x="874" y="84" width="176" height="56" rx="10" fill="#142a36" stroke="#589f9d"/><text x="962" y="118" fill="#e0f7f1">entry_point</text>
+<rect x="785" y="221" width="142" height="51" rx="10" fill="#142a36" stroke="#589f9d"/><text x="856" y="252" fill="#72ead0">inspect()</text>
+<rect x="999" y="221" width="142" height="51" rx="10" fill="#142a36" stroke="#589f9d"/><text x="1070" y="252" fill="#a9c4dd">build()</text>
+<circle class="pulse" cx="962" cy="354" r="7" fill="#72ead0"/>
+</g>
+<text x="54" y="393" font-family="monospace" font-size="12" letter-spacing="1" fill="#8aa4b9">COMPUTER SCIENCE @ UEL  /  BRAZIL</text>
+</svg>
