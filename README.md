@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.svg" alt="Rafael Guerra — Software, systems and reverse engineering" width="100%">
-</p>
-
 # Rafael Guerra Waldrigues
 
 Full stack developer and Computer Science student at **UEL, Brazil**. I build web and mobile products end to end, and in my free time I take software apart: **reverse engineering, binary analysis and application security** are what I enjoy most.
