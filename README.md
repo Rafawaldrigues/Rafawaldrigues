@@ -9,7 +9,7 @@ Currently a **Full Stack Intern at ORV**. Graduating in **July 2027**.
 ## Security work
 
 - **[JADX Atlas](https://github.com/Rafawaldrigues/jadx-atlas)** — attack-surface map for Android apps, built on JADX output. It shows which components are exposed, what each class is even when the name is `a.b.c`, where sensitive APIs are used, and possible paths from an exposed entry point to the code worth reviewing. Runs locally, and every result carries its confidence and the file and line it comes from. Python, Tree-sitter, 30 rule-based checks, version diff and exportable reports.
-- **[Android Intent Attacks](https://github.com/Rafawaldrigues/android-intent-attacks)** — 19 CTF write-ups on Android vulnerabilities: exported components, intent redirection and hijacking, deep link trust bypass, content provider exposure and SQL injection, and PendingIntent misuse. Each one covers the vulnerability, how I found it, the exploit (Kotlin PoC apps, adb) and the fix.
+- **[Android Intent Attacks](https://github.com/Rafawaldrigues/android-intent-attacks)** — CTF write-ups on Android vulnerabilities, with new ones added regularly: exported components, intent redirection and hijacking, deep link trust bypass, content provider exposure and SQL injection, and PendingIntent misuse. Each one covers the vulnerability, how I found it, the exploit (Kotlin PoC apps, adb) and the fix.
 - **[ASM X](https://github.com/Rafawaldrigues/x86-assembly-visualizer)** — x86-64 assembly simulator and source viewer. Step through programs, inspect registers and memory, and catch common mistakes before assembling. Python, no runtime dependencies.
 
 ## Machine learning
