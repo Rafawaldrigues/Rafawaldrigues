@@ -20,18 +20,17 @@ Currently **Full Stack Intern at ORV**.
     <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT">
-    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT">
     <br>
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT">
-    <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="ANGULAR">
     <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KOTLIN">
-    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SPRING">
     <br>
     <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/ASSEMBLY-1F2937?style=for-the-badge" alt="Assembly">
     <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FASTAPI">
     <br>
-    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
     <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
     <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER">
     <br>
@@ -53,8 +52,8 @@ Currently **Full Stack Intern at ORV**.
 ## What I work with
 
 - **Mobile:** native iOS in Swift, Android in Kotlin and Java.
-- **Web:** websites and web apps with JavaScript, TypeScript, React and Angular, backed by Python (FastAPI) or Java (Spring).
-- **Backend and servers:** REST APIs, PostgreSQL and MySQL, JWT authentication, Docker, deployment, VPS administration, logs and CI.
+- **Web:** websites and web apps with HTML, CSS, JavaScript and TypeScript, backed by Python (FastAPI).
+- **Backend and servers:** REST APIs, PostgreSQL, JWT authentication, Docker, deployment, VPS administration, logs and CI.
 - **Data and AI:** data pipelines, Power BI dashboards, and machine learning such as Bayesian preference optimization.
 - **Security:** Android app analysis with JADX and Frida, static analysis tooling, CTF write-ups and x86-64 reverse engineering.
 
@@ -98,7 +97,7 @@ Built a FastAPI REST API for patient and appointment data. Implemented JWT authe
 
 ## Contact
 
-Open to opportunities in software development, mobile, data and AI, and application security. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/rafael-guerra-05b042248/) or [email](mailto:waldriguesrafa@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/rafael-guerra-05b042248/) · [waldriguesrafa@gmail.com](mailto:waldriguesrafa@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg">
